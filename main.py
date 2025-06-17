@@ -17,3 +17,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+git add main.py
+git commit -m "Add Canny edge detection to main.py"
+git push origin master # O git push origin main si tu rama es main
